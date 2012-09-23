@@ -1,3 +1,3 @@
 module JRubyJars
-  VERSION = '1.7.0.preview2.198f078649b336d345566ce3961f85ad6afe3237'
+  VERSION = '1.7.0.preview3.4aa8812fb49935dabf5e93d143b7de9ad0b2636f'
 end
